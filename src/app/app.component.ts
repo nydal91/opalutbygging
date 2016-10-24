@@ -7,6 +7,6 @@ import { Ng2BootstrapConfig, Ng2BootstrapTheme } from 'ng2-bootstrap/ng2-bootstr
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
- title = 'Jølster Betongbygg AS';
+ title = 'Opal Utbygging AS';
 
 }
